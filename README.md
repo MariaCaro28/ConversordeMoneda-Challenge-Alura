@@ -20,8 +20,8 @@ Este es un programa de conversión de monedas que permite a los usuarios convert
 <h3>Estructura del Proyecto</h3>
 <ul>
   <li>Menu: Clase que muestra el menú y gestiona la interacción con el usuario..</li>
-  <li>ConsultaApi: Clase que realiza las consultas a la API de tasas de conversión. (BRL).</li>
-  <li>Moneda: Clase que representa la estructura de datos devuelta por la API. (COP).</li>
+  <li>ConsultaApi: Clase que realiza las consultas a la API de tasas de conversión.</li>
+  <li>Moneda: Clase que representa la estructura de datos devuelta por la API.</li>
   <li>ConversorMoneda: Clase que contiene la lógica para convertir monedas.</li>
 </ul>
 
